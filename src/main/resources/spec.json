@@ -1,0 +1,22 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "userName": "user.info.name",
+      "userAction": "user.activity.action"
+    }
+  },
+  {
+    "operation": "default",
+    "spec": {
+      "user": {
+        "info": {
+          "age": 30
+        },
+        "activity": {
+          "timestamp": "2024-09-30T12:00:00Z"
+        }
+      }
+    }
+  }
+]
